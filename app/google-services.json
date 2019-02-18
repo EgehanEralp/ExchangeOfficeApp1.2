@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "37957931952",
+    "firebase_url": "https://fir-deneme-3be31.firebaseio.com",
+    "project_id": "fir-deneme-3be31",
+    "storage_bucket": "fir-deneme-3be31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37957931952:android:daec2b827d786137",
+        "android_client_info": {
+          "package_name": "com.example.egehaneralp.dovizuygulamasison1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37957931952-6fdpl56egmv90ohjkv3bn7ljeaagkl9l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egehaneralp.dovizuygulamasison1",
+            "certificate_hash": "4d359783e6a1cfb7ff9f900f6d846debf5919783"
+          }
+        },
+        {
+          "client_id": "37957931952-cjmg57fr3pdjlmdka6da46f1afgf6saj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4wJStmOcOU3u0b_JT0ZwlhD1H9ssWaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37957931952-cjmg57fr3pdjlmdka6da46f1afgf6saj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37957931952:android:5226fe7349d11d1d",
+        "android_client_info": {
+          "package_name": "com.example.egehaneralp.dovizuygulamasison12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37957931952-b8d46rooc8p9jtemr0091frb7nttr2i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egehaneralp.dovizuygulamasison12",
+            "certificate_hash": "4d359783e6a1cfb7ff9f900f6d846debf5919783"
+          }
+        },
+        {
+          "client_id": "37957931952-cjmg57fr3pdjlmdka6da46f1afgf6saj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4wJStmOcOU3u0b_JT0ZwlhD1H9ssWaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37957931952-cjmg57fr3pdjlmdka6da46f1afgf6saj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37957931952:android:e4c9feeb8c116d91",
+        "android_client_info": {
+          "package_name": "com.example.egehaneralp.dovizuygulamasison2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37957931952-b8psmnhc34qa9hhi75615bhdff6r0ip1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egehaneralp.dovizuygulamasison2",
+            "certificate_hash": "4d359783e6a1cfb7ff9f900f6d846debf5919783"
+          }
+        },
+        {
+          "client_id": "37957931952-cjmg57fr3pdjlmdka6da46f1afgf6saj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4wJStmOcOU3u0b_JT0ZwlhD1H9ssWaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37957931952-cjmg57fr3pdjlmdka6da46f1afgf6saj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37957931952:android:076d2481d0bd199b",
+        "android_client_info": {
+          "package_name": "com.example.egehaneralp.firebasedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37957931952-jbiltlo69ds3d9ud45m8jak7j56a6hbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.egehaneralp.firebasedeneme",
+            "certificate_hash": "4d359783e6a1cfb7ff9f900f6d846debf5919783"
+          }
+        },
+        {
+          "client_id": "37957931952-cjmg57fr3pdjlmdka6da46f1afgf6saj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS4wJStmOcOU3u0b_JT0ZwlhD1H9ssWaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37957931952-cjmg57fr3pdjlmdka6da46f1afgf6saj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

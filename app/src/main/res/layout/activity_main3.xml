@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+    <TextView
+        android:id="@+id/sirala"
+        android:layout_width="318dp"
+        android:layout_height="455dp"
+        android:layout_centerInParent="true"
+        android:textColor="?attr/actionModeSplitBackground"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="ÜYELERİN TL CÜZDANLARI"
+        android:textColor="@android:color/holo_green_dark"
+        android:textSize="17sp"
+        android:textStyle="bold" />
+</RelativeLayout>
